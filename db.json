@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 100
+    },
+    {
+      "name": "truong",
+      "price": "123123",
+      "id": 4
+    },
+    {
+      "name": "truong",
+      "price": "123456",
+      "image": "https://vn.images.search.yahoo.com/images/view;_ylt=Awrx.KuBZDNkN6MqsKttUwx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzgxMTEyNjQ1MmZhN2JiYzIyMzc3ZDU0ZTU2MDQ5YjRlBGdwb3MDMTEEaXQDYmluZw--?back=https%3A%2F%2Fvn.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danhr%26type%3DE210VN885G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D11&w=736&h=569&imgurl=i.pinimg.com%2F736x%2F3c%2F4a%2F13%2F3c4a13d7d721fa07204f3507d2606882.jpg&rurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F589197563725845718%2F&size=53.5KB&p=anhr&oid=811126452fa7bbc22377d54e56049b4e&fr2=piv-web&fr=mcafee&tt=Pin+on+Anhr&b=0&ni=21&no=11&ts=&tab=organic&sigr=QFPBBX9hGNnS&sigb=5CkLTKlqc_Up&sigi=gWTwh6OWixol&sigt=i.bZpSE0n51P&.crumb=DfwofHye5y0&fr=mcafee&fr2=piv-web&type=E210VN885G0",
+      "description": "132456",
+      "categoryld": "jksfalkf",
+      "id": 5
+    },
+    {
+      "name": "truong",
+      "price": "123456",
+      "image": "https://vn.images.search.yahoo.com/images/view;_ylt=Awrx.KuBZDNkN6MqsKttUwx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzgxMTEyNjQ1MmZhN2JiYzIyMzc3ZDU0ZTU2MDQ5YjRlBGdwb3MDMTEEaXQDYmluZw--?back=https%3A%2F%2Fvn.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danhr%26type%3DE210VN885G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D11&w=736&h=569&imgurl=i.pinimg.com%2F736x%2F3c%2F4a%2F13%2F3c4a13d7d721fa07204f3507d2606882.jpg&rurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F589197563725845718%2F&size=53.5KB&p=anhr&oid=811126452fa7bbc22377d54e56049b4e&fr2=piv-web&fr=mcafee&tt=Pin+on+Anhr&b=0&ni=21&no=11&ts=&tab=organic&sigr=QFPBBX9hGNnS&sigb=5CkLTKlqc_Up&sigi=gWTwh6OWixol&sigt=i.bZpSE0n51P&.crumb=DfwofHye5y0&fr=mcafee&fr2=piv-web&type=E210VN885G0",
+      "description": "132456",
+      "categoryld": "jksfalkf",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category 1"
+    },
+    {
+      "id": 2,
+      "name": "Category 2"
+    }
+  ]
+}
